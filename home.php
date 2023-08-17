@@ -58,8 +58,10 @@ get_header();
                 </svg></a></div>
           </div>
         </div>
-      </div><img src="<?php bloginfo('template_url'); ?>/assets/img/kulikov.png" alt="Фото Дениса Куликова" class="info__img info__img--desktop"> <img
-        src="<?php bloginfo('template_url'); ?>/assets/img/kulikov-tablet.png" alt="Фото Дениса Куликова" class="info__img info__img--tablet">
+      </div><img src="<?php bloginfo('template_url'); ?>/assets/img/kulikov.png" alt="Фото Дениса Куликова"
+        class="info__img info__img--desktop"> <img
+        src="<?php bloginfo('template_url'); ?>/assets/img/kulikov-tablet.png" alt="Фото Дениса Куликова"
+        class="info__img info__img--tablet">
     </div>
   </div>
 </section>
@@ -70,22 +72,25 @@ get_header();
       <div class="small-container">
         <ul class="list-reset experience__list">
           <li class="experience__item experience__item--1">
-            <div class="experience__caption">13+</div><img src="<?php bloginfo('template_url'); ?>/assets/img/experience/bag.png" alt="" class="experience__icon">
+            <div class="experience__caption">13+</div><img
+              src="<?php bloginfo('template_url'); ?>/assets/img/experience/bag.png" alt="" class="experience__icon">
             <p class="experience__text"><span>Более 13 лет опыта работы</span> в экономических и арбитражных спорах
             </p>
             <div class="experience__decoration">13</div>
           </li>
           <li class="experience__item experience__item--2">
-            <div class="experience__caption">5+</div><img src="<?php bloginfo('template_url'); ?>/assets/img/experience/coins.png" alt=""
-              class="experience__icon">
+            <div class="experience__caption">5+</div><img
+              src="<?php bloginfo('template_url'); ?>/assets/img/experience/coins.png" alt="" class="experience__icon">
             <p class="experience__text">Работаем с задолженностями и обязательствами <span>от 5 млн. руб.</span></p>
             <div class="experience__decoration">5</div>
           </li>
           <li class="experience__item experience__item--3">
             <div class="experience__caption"><svg class="">
                 <use xlink:href="<?php bloginfo('template_url'); ?>/assets/img/sprite.svg#eye"></use>
-              </svg></div><img src="<?php bloginfo('template_url'); ?>/assets/img/experience/papers.png" alt="" class="experience__icon experience__icon--paper">
-            <img src="<?php bloginfo('template_url'); ?>/assets/img/experience/papers-mobile.png" alt="" class="experience__icon experience__icon--mobile">
+              </svg></div><img src="<?php bloginfo('template_url'); ?>/assets/img/experience/papers.png" alt=""
+              class="experience__icon experience__icon--paper">
+            <img src="<?php bloginfo('template_url'); ?>/assets/img/experience/papers-mobile.png" alt=""
+              class="experience__icon experience__icon--mobile">
             <p class="experience__text">Перед началом работы <span>подписываем договор, в котором есть пункт
                 о конфиденциальности</span></p>
             <div class="experience__decoration"><svg class="">
@@ -103,7 +108,8 @@ get_header();
           <b>знаем,<br>как вести дело в любой ситуации</b>
         </h2>
         <div class="owner__content">
-          <div class="owner__quote"><img src="<?php bloginfo('template_url'); ?>/assets/img/quote.svg" alt="" class="owner__quote-icon">
+          <div class="owner__quote"><img src="<?php bloginfo('template_url'); ?>/assets/img/quote.svg" alt=""
+              class="owner__quote-icon">
             <p class="owner__text owner__text--big">Перед тем, как взяться за дело, мы глубоко изучаем все тонкости,
               детально оцениваем риски и прорабатываем алгоритм решения задачи.</p>
             <p class="owner__text owner__text--big owner__text--tablet">Перед тем, как взяться за дело, мы глубоко
@@ -114,8 +120,9 @@ get_header();
               даже в сложных ситуациях, которые, казалось<br>бы, уже проигрышные</p><img class="owner__sign"
               src="<?php bloginfo('template_url'); ?>/assets/img/sign.svg" alt="">
           </div>
-          <div class="owner__pictures"><img src="<?php bloginfo('template_url'); ?>/assets/img/arms.png" alt="" class="owner__arms"> <img src="<?php bloginfo('template_url'); ?>/assets/img/owner.png"
-              alt="" class="owner__img"></div>
+          <div class="owner__pictures"><img src="<?php bloginfo('template_url'); ?>/assets/img/arms.png" alt=""
+              class="owner__arms"> <img src="<?php bloginfo('template_url'); ?>/assets/img/owner.png" alt=""
+              class="owner__img"></div>
           <div class="owner__info">
             <div class="owner__item owner__item--1">
               <h3 class="owner__subtitle">Денис Куликов</h3>
@@ -143,11 +150,13 @@ get_header();
                 по статьям УК 159, 160, 201 УК РФ или суд в первой инстанции признал виновным</p>
             </div>
             <div class="protection__item protection__item--1">
-              <h3 class="protection__caption">01</h3><img src="<?php bloginfo('template_url'); ?>/assets/img/protection/first.png" alt="" class="protection__img">
+              <h3 class="protection__caption">01</h3><img
+                src="<?php bloginfo('template_url'); ?>/assets/img/protection/first.png" alt="" class="protection__img">
               <p class="protection__text"><b>Оспариваем</b> сделки и <b>снижаем</b> штрафные санкции</p>
             </div>
             <div class="protection__item protection__item--2">
-              <h3 class="protection__caption">02</h3><img src="<?php bloginfo('template_url'); ?>/assets/img/protection/second.png" alt=""
+              <h3 class="protection__caption">02</h3><img
+                src="<?php bloginfo('template_url'); ?>/assets/img/protection/second.png" alt=""
                 class="protection__img">
               <p class="protection__text"><span>Оспариваем решения суда</span> в апелляционной и кассационной
                 инстанции</p>
@@ -159,18 +168,21 @@ get_header();
                 по статьям УК 159, 160, 201 УК РФ или суд в первой инстанции признал виновным</p>
             </div>
             <div class="protection__item protection__item--3">
-              <h3 class="protection__caption">03</h3><img src="<?php bloginfo('template_url'); ?>/assets/img/protection/third.png" alt="" class="protection__img">
+              <h3 class="protection__caption">03</h3><img
+                src="<?php bloginfo('template_url'); ?>/assets/img/protection/third.png" alt="" class="protection__img">
               <p class="protection__text"><span>Защищаем</span><br>от личной финансовой ответственности</p>
             </div>
           </div>
           <div class="protection__right">
             <div class="protection__item protection__item--4">
-              <h3 class="protection__caption">04</h3><img src="<?php bloginfo('template_url'); ?>/assets/img/protection/fourth.png" alt=""
+              <h3 class="protection__caption">04</h3><img
+                src="<?php bloginfo('template_url'); ?>/assets/img/protection/fourth.png" alt=""
                 class="protection__img">
               <p class="protection__text">Проводим процедуру <span>банкротства юридических лиц</span></p>
             </div>
             <div class="protection__item protection__item--5">
-              <h3 class="protection__caption">05</h3><img src="<?php bloginfo('template_url'); ?>/assets/img/protection/fifth.png" alt="" class="protection__img">
+              <h3 class="protection__caption">05</h3><img
+                src="<?php bloginfo('template_url'); ?>/assets/img/protection/fifth.png" alt="" class="protection__img">
               <p class="protection__text">Защищаем от уголовной ответственности <span>по</span> <span>статьям 159,
                   160, 201 УК РФ</span></p>
             </div>
@@ -188,7 +200,8 @@ get_header();
         <h3 class="cases__subtitle">Работаем <span>с любыми арбитражными спорами,</span><br>вне зависимости от имени
           и капитализации компании</h3>
         <ul class="cases__list list-reset">
-          <li class="cases__item"><a href="<?php bloginfo('template_url'); ?>/assets/img/case.png" class="cases__img-block" data-fancybox="gallery"
+          <li class="cases__item"><a href="<?php bloginfo('template_url'); ?>/assets/img/case.png"
+              class="cases__img-block" data-fancybox="gallery"
               data-caption="Защитили клиента от личной субсидиарной ответственности на 1 126 780 000 руб."><img
                 src="<?php bloginfo('template_url'); ?>/assets/img/case.png" alt="" class="cases__img">
               <div class="cases__zoom-btn"><svg class="cases__icon">
@@ -210,7 +223,8 @@ get_header();
             </div><button onclick="togglePopup('form1');" class="btn-reset cases__button cases__button--tablet btn"
               data-graph-path=""><span>Получить консультацию по моему делу</span></button>
           </li>
-          <li class="cases__item"><a href="<?php bloginfo('template_url'); ?>/assets/img/case.png" class="cases__img-block" data-fancybox="gallery"
+          <li class="cases__item"><a href="<?php bloginfo('template_url'); ?>/assets/img/case.png"
+              class="cases__img-block" data-fancybox="gallery"
               data-caption="Защитили клиента от личной субсидиарной ответственности на 1 126 780 000 руб."><img
                 src="<?php bloginfo('template_url'); ?>/assets/img/case.png" alt="" class="cases__img">
               <div class="cases__zoom-btn"><svg class="cases__icon">
@@ -232,7 +246,8 @@ get_header();
             </div><button onclick="togglePopup('form1');" class="btn-reset cases__button cases__button--tablet btn"
               data-graph-path=""><span>Получить консультацию по моему делу</span></button>
           </li>
-          <li class="cases__item"><a href="<?php bloginfo('template_url'); ?>/assets/img/case.png" class="cases__img-block" data-fancybox="gallery"
+          <li class="cases__item"><a href="<?php bloginfo('template_url'); ?>/assets/img/case.png"
+              class="cases__img-block" data-fancybox="gallery"
               data-caption="Защитили клиента от личной субсидиарной ответственности на 1 126 780 000 руб."><img
                 src="<?php bloginfo('template_url'); ?>/assets/img/case.png" alt="" class="cases__img">
               <div class="cases__zoom-btn"><svg class="cases__icon">
@@ -254,7 +269,8 @@ get_header();
             </div><button onclick="togglePopup('form1');" class="btn-reset cases__button cases__button--tablet btn"
               data-graph-path=""><span>Получить консультацию по моему делу</span></button>
           </li>
-          <li class="cases__item"><a href="<?php bloginfo('template_url'); ?>/assets/img/case.png" class="cases__img-block" data-fancybox="gallery"
+          <li class="cases__item"><a href="<?php bloginfo('template_url'); ?>/assets/img/case.png"
+              class="cases__img-block" data-fancybox="gallery"
               data-caption="Защитили клиента от личной субсидиарной ответственности на 1 126 780 000 руб."><img
                 src="<?php bloginfo('template_url'); ?>/assets/img/case.png" alt="" class="cases__img">
               <div class="cases__zoom-btn"><svg class="cases__icon">
@@ -276,7 +292,8 @@ get_header();
             </div><button onclick="togglePopup('form1');" class="btn-reset cases__button cases__button--tablet btn"
               data-graph-path=""><span>Получить консультацию по моему делу</span></button>
           </li>
-          <li class="cases__item"><a href="<?php bloginfo('template_url'); ?>/assets/img/case.png" class="cases__img-block" data-fancybox="gallery"
+          <li class="cases__item"><a href="<?php bloginfo('template_url'); ?>/assets/img/case.png"
+              class="cases__img-block" data-fancybox="gallery"
               data-caption="Защитили клиента от личной субсидиарной ответственности на 1 126 780 000 руб."><img
                 src="<?php bloginfo('template_url'); ?>/assets/img/case.png" alt="" class="cases__img">
               <div class="cases__zoom-btn"><svg class="cases__icon">
@@ -314,19 +331,22 @@ get_header();
           и ведением дела</h2>
         <h3 class="work__subtitle">А также участвуем в заседаниях суда и оспариваем решения органов власти</h3>
         <ul class="list-reset work__list">
-          <li class="work__item"><img src="<?php bloginfo('template_url'); ?>/assets/img/work/materials.png" alt="" class="work__img work__img--1">
+          <li class="work__item"><img src="<?php bloginfo('template_url'); ?>/assets/img/work/materials.png" alt=""
+              class="work__img work__img--1">
             <h4 class="work__name work__name--1">Изучим материалы дела и определим стратегию<br>защиты интересов
             </h4>
             <p class="work__text">Со 100% вероятностью определим потенциал дела. Если оно проигрышное, то мы вам
               об этом сообщим,<br>чтобы вы могли избежать лишних<br>затрат на судебные споры</p>
           </li>
-          <li class="work__item"><img src="<?php bloginfo('template_url'); ?>/assets/img/work/strategy.png" alt="" class="work__img work__img--2">
+          <li class="work__item"><img src="<?php bloginfo('template_url'); ?>/assets/img/work/strategy.png" alt=""
+              class="work__img work__img--2">
             <h4 class="work__name work__name--2">Вы получите<br>эффективную стратегию<br>защиты интересов в суде
             </h4>
             <p class="work__text">Найдем особенности и нюансы в аналогичных делах, которые повлияли на решение суда.
               Применим опыт прошлых лет в вашем деле</p>
           </li>
-          <li class="work__item"><img src="<?php bloginfo('template_url'); ?>/assets/img/work/decision.png" alt="" class="work__img work__img--3">
+          <li class="work__item"><img src="<?php bloginfo('template_url'); ?>/assets/img/work/decision.png" alt=""
+              class="work__img work__img--3">
             <h4 class="work__name work__name--3">Поможем оспорить<br>решение суда, если первая<br>инстанция уже
               вынесла решение</h4>
             <p class="work__text">Получаем документы и переходим в апелляционную инстанцию. Находим слабые места,
@@ -391,17 +411,20 @@ get_header();
           <div class="mistake__attention-icon"></div>
         </div><img src="<?php bloginfo('template_url'); ?>/assets/img/trap.png" alt="" class="mistake__img">
         <ul class="list-reset mistake__list">
-          <li class="mistake__item"><img src="<?php bloginfo('template_url'); ?>/assets/img/mistake/first.png" alt="" class="mistake__icon">
+          <li class="mistake__item"><img src="<?php bloginfo('template_url'); ?>/assets/img/mistake/first.png" alt=""
+              class="mistake__icon">
             <h3 class="mistake__name">На этапе<br>переговоров</h3>
             <p class="mistake__descr">Занимают агрессивную позицию, которая прекращает диалог и заставляет их идти
               в суд для разрешения спора</p>
           </li>
-          <li class="mistake__item"><img src="<?php bloginfo('template_url'); ?>/assets/img/mistake/second.png" alt="" class="mistake__icon">
+          <li class="mistake__item"><img src="<?php bloginfo('template_url'); ?>/assets/img/mistake/second.png" alt=""
+              class="mistake__icon">
             <h3 class="mistake__name">На этапе подготовки документов в суд</h3>
             <p class="mistake__descr">Допускают ошибки при построении позиции и как следствие − получают отказ
               в удовлетворении исковых требований</p>
           </li>
-          <li class="mistake__item"><img src="<?php bloginfo('template_url'); ?>/assets/img/mistake/third.png" alt="" class="mistake__icon">
+          <li class="mistake__item"><img src="<?php bloginfo('template_url'); ?>/assets/img/mistake/third.png" alt=""
+              class="mistake__icon">
             <h3 class="mistake__name">На этапе ведения<br>дела в суде</h3>
             <p class="mistake__descr">Не учли в документах все нюансы, использовали неверную позицию, которая
               рушится несколькими аргументами ваших оппонентов</p>
@@ -416,25 +439,32 @@ get_header();
         <h2 class="meeting__title title">Для полноценного аудита ситуации необходимо разобраться во всех
           особенностях дела</h2>
         <h3 class="meeting__subtitle m-reset"><span>Мы предлагаем начать работу со встречи,</span> на которой сможем
-          на 100% погрузиться в ваше дело, <b>а вы:</b></h3><img src="<?php bloginfo('template_url'); ?>/assets/img/meeting/bg-2.png" alt="" class="meeting__bg">
+          на 100% погрузиться в ваше дело, <b>а вы:</b></h3><img
+          src="<?php bloginfo('template_url'); ?>/assets/img/meeting/bg-2.png" alt="" class="meeting__bg">
         <div class="meeting__content">
-          <div class="meeting__price"><img src="<?php bloginfo('template_url'); ?>/assets/img/meeting/price.png" alt="" class="meeting__img"> <img
-              src="<?php bloginfo('template_url'); ?>/assets/img/meeting/pricem.png" alt="" class="meeting__img--mobile"> <img src="<?php bloginfo('template_url'); ?>/assets/img/meeting/pricem-money.png"
-              alt="" class="meeting__img2--mobile">
+          <div class="meeting__price"><img src="<?php bloginfo('template_url'); ?>/assets/img/meeting/price.png" alt=""
+              class="meeting__img"> <img src="<?php bloginfo('template_url'); ?>/assets/img/meeting/pricem.png" alt=""
+              class="meeting__img--mobile"> <img
+              src="<?php bloginfo('template_url'); ?>/assets/img/meeting/pricem-money.png" alt=""
+              class="meeting__img2--mobile">
             <h4 class="meeting__price-key">Стоимость изучения документов:</h4>
             <p class="meeting__price-value">15 000 руб.</p>
-          </div><img src="<?php bloginfo('template_url'); ?>/assets/img/meeting/bg-2.png" alt="" class="meeting__picture">
+          </div><img src="<?php bloginfo('template_url'); ?>/assets/img/meeting/bg-2.png" alt=""
+            class="meeting__picture">
           <div class="meeting__services">
             <ul class="list-reset meeting__list">
-              <li class="meeting__item"><img src="<?php bloginfo('template_url'); ?>/assets/img/meeting/first.png" alt="Разбор" class="meeting__icon">
+              <li class="meeting__item"><img src="<?php bloginfo('template_url'); ?>/assets/img/meeting/first.png"
+                  alt="Разбор" class="meeting__icon">
                 <p class="meeting__descr"><b>Получите разбор ситуации и оценку рисков,</b> с которыми вы можете
                   столкнуться в процессе ведения дела</p>
               </li>
-              <li class="meeting__item"><img src="<?php bloginfo('template_url'); ?>/assets/img/meeting/second.png" alt="Разбор" class="meeting__icon">
+              <li class="meeting__item"><img src="<?php bloginfo('template_url'); ?>/assets/img/meeting/second.png"
+                  alt="Разбор" class="meeting__icon">
                 <p class="meeting__descr"><b>Получите перечень необходимых документов</b> для подготовки искового
                   заявления или его отзыва</p>
               </li>
-              <li class="meeting__item"><img src="<?php bloginfo('template_url'); ?>/assets/img/meeting/third.png" alt="Разбор" class="meeting__icon">
+              <li class="meeting__item"><img src="<?php bloginfo('template_url'); ?>/assets/img/meeting/third.png"
+                  alt="Разбор" class="meeting__icon">
                 <p class="meeting__descr"><b>Узнаете пошаговый план действий</b> для разрешения спора по взысканию
                   задолженности</p>
               </li>
@@ -454,22 +484,25 @@ get_header();
         <h2 class="title methods__title">В процессе работы мы используем <b>весь арсенал законных методов</b> для
           защиты ваших интересов</h2>
         <p class="methods__info m-reset">Наша задача — законно собрать доказательную базу для суда, которая <b>будет
-            являться основанием</b> для пересмотра иска или его полного аннулирования</p><img src="<?php bloginfo('template_url'); ?>/assets/img/methods.png"
-          alt="" class="methods__img">
+            являться основанием</b> для пересмотра иска или его полного аннулирования</p><img
+          src="<?php bloginfo('template_url'); ?>/assets/img/methods.png" alt="" class="methods__img">
         <div class="methods__container">
           <ul class="list-reset methods__list">
-            <li class="methods__item"><img src="<?php bloginfo('template_url'); ?>/assets/img/methods/first.png" alt="" class="methods__icon">
+            <li class="methods__item"><img src="<?php bloginfo('template_url'); ?>/assets/img/methods/first.png" alt=""
+                class="methods__icon">
               <h3 class="methods__name m-reset">Доказываем наличие и законность проведенных сделок</h3>
               <p class="methods__descr m-reset">Найдем директоров, сотрудников и участников реальных сделок и
                 докажем (или опровергнем) их законность</p>
             </li>
-            <li class="methods__item"><img src="<?php bloginfo('template_url'); ?>/assets/img/methods/second.png" alt="" class="methods__icon">
+            <li class="methods__item"><img src="<?php bloginfo('template_url'); ?>/assets/img/methods/second.png" alt=""
+                class="methods__icon">
               <h3 class="methods__name m-reset">Изучаем и перепроверяем всю документацию и отчетность по работе с
                 контрагентами</h3>
               <p class="methods__descr m-reset">У нас сильный юридический и бухгалтерский отделы, которые проверят
                 и перепроверят все документы, чтобы доказать необоснованность требований</p>
             </li>
-            <li class="methods__item"><img src="<?php bloginfo('template_url'); ?>/assets/img/methods/third.png" alt="" class="methods__icon">
+            <li class="methods__item"><img src="<?php bloginfo('template_url'); ?>/assets/img/methods/third.png" alt=""
+                class="methods__icon">
               <h3 class="methods__name m-reset">Предоставляем полный отчет и экспертное заключение, которое имеет
                 юридическую силу и учитывается в суде</h3>
               <p class="methods__descr m-reset">Когда мы приносим коробки документов в суд, юристы оппонента
@@ -486,12 +519,14 @@ get_header();
         <h2 class="title total__title">Общий опыт команды в сфере арбитражных споров — <b>более 400 выигранных
             дел</b></h2>
         <ul class="total__list list-reset">
-          <li class="total__item"><img src="<?php bloginfo('template_url'); ?>/assets/img/total/denis.png" alt="" class="total__img">
+          <li class="total__item"><img src="<?php bloginfo('template_url'); ?>/assets/img/total/denis.png" alt=""
+              class="total__img">
             <h3 class="total__name m-reset">Денис Куликов</h3>
             <p class="total__info m-reset"><span class="total__post">Основатель компании</span> <span
                 class="total__experience">Опыт — более 13 лет</span></p>
           </li>
-          <li class="total__item"><img src="<?php bloginfo('template_url'); ?>/assets/img/total/nikita.png" alt="" class="total__img">
+          <li class="total__item"><img src="<?php bloginfo('template_url'); ?>/assets/img/total/nikita.png" alt=""
+              class="total__img">
             <h3 class="total__name m-reset">Никита Борзов</h3>
             <p class="total__info"><span class="total__post">Юрист компании</span> <span
                 class="total__experience">Опыт — более 12 лет</span></p>
@@ -533,66 +568,44 @@ get_header();
         <h2 class="title faq__title">На популярные вопросы отвечает основатель компании — Денис Куликов</h2>
         <p class="faq__descr m-reset">Основатель компании <span>«Столичный правовой центр».</span> <b>13 лет в сфере
             арбитражных споров</b></p>
-        <div class="faq__img-block"><img src="<?php bloginfo('template_url'); ?>/assets/img/faq.png" alt="" class="faq__img"> <img src="<?php bloginfo('template_url'); ?>/assets/img/faq-arms.png" alt=""
+        <div class="faq__img-block"><img src="<?php bloginfo('template_url'); ?>/assets/img/faq.png" alt=""
+            class="faq__img"> <img src="<?php bloginfo('template_url'); ?>/assets/img/faq-arms.png" alt=""
             class="faq__arms"></div>
         <div class="accordion faq__accordion">
-          <div class="accordion__item"><button class="accordion__button accordion__button--active">Какой срок
-              давности для привлечения к субсидиарной ответственности?</button>
-            <div class="accordion__panel" style="max-height: 333px;">
-              <p class="accordion__answer m-reset">В делах о банкротстве при привлечении к субсидиарной
-                ответственности он может быть до 10 лет.</p>
-              <div class="accordion__wrapper">
-                <p class="accordion__message m-reset">Хотите обсудить этот вопрос напрямую с юристом? <b>Введите
-                    номер телефона, чтобы получить консультацию</b></p>
-                <form action="#" class="form accordion__form">
-                  <div class="form__buttons"><label class="form__label accordion__label"><input type="text"
-                        name="Телефон" class="input-reset form__input" placeholder="+7 (999) 999 99 99" data-phone-mask
-                        required> <svg class="form__icon">
-                        <use xlink:href="<?php bloginfo('template_url'); ?>/assets/img/sprite.svg#phone"></use>
-                      </svg></label> <button class="btn-reset form__btn"><span>Обсудить вопрос
-                        с юристом</span></button></div>
-                </form>
+          <?php
+          global $post;
+
+          $myposts = get_posts([
+            'numberposts' => -1,
+            'category_name' => 'accordion'
+          ]);
+
+          if ($myposts) {
+            foreach ($myposts as $post) {
+              setup_postdata($post);
+              ?>
+              <!-- Вывод постов, функции цикла: the_title() и т.д. -->
+              <div class="accordion__item"><button class="accordion__button"><?php the_title();?></button>
+                <div class="accordion__panel">
+                  <div class="accordion__answer m-reset"><?php the_content();?></div>
+                  <div class="accordion__wrapper">
+                    <p class="accordion__message m-reset">Хотите обсудить этот вопрос напрямую с юристом? <b>Введите
+                        номер телефона, чтобы получить консультацию</b></p>
+                    <form action="#" class="form accordion__form">
+                      <div class="form__buttons"><label class="form__label accordion__label"><input type="text"
+                            name="Телефон" class="input-reset form__input" placeholder="+7 (999) 999 99 99" data-phone-mask
+                            required> <svg class="form__icon">
+                            <use xlink:href="<?php bloginfo('template_url'); ?>/assets/img/sprite.svg#phone"></use>
+                          </svg></label> <button class="btn-reset form__btn"><span>Обсудить вопрос
+                            с юристом</span></button></div>
+                    </form>
+                  </div>
+                </div>
               </div>
-            </div>
-          </div>
-          <div class="accordion__item"><button class="accordion__button">Что делать, чтобы избежать привлечения
-              к субсидиарной ответственности?</button>
-            <div class="accordion__panel">
-              <p class="accordion__answer">В делах о банкротстве при привлечении к субсидиарной ответственности
-                он может быть до 10 лет.</p>
-              <div class="accordion__wrapper">
-                <p class="accordion__message">Хотите обсудить этот вопрос напрямую с юристом? <b>Введите номер
-                    телефона, чтобы получить консультацию</b></p>
-                <form action="#" class="form accordion__form">
-                  <div class="form__buttons"><label class="form__label accordion__label"><input type="text"
-                        name="Телефон" class="input-reset form__input" placeholder="+7 (999) 999 99 99" data-phone-mask
-                        required> <svg class="form__icon">
-                        <use xlink:href="<?php bloginfo('template_url'); ?>/assets/img/sprite.svg#phone"></use>
-                      </svg></label> <button class="btn-reset form__btn"><span>Обсудить вопрос
-                        с юристом</span></button></div>
-                </form>
-              </div>
-            </div>
-          </div>
-          <div class="accordion__item"><button class="accordion__button">Могу ли я избежать привлечения
-              к субсидиарной ответственности путём личного банкротства?</button>
-            <div class="accordion__panel">
-              <p class="accordion__answer">В делах о банкротстве при привлечении к субсидиарной ответственности
-                он может быть до 10 лет.</p>
-              <div class="accordion__wrapper">
-                <p class="accordion__message">Хотите обсудить этот вопрос напрямую с юристом? <b>Введите номер
-                    телефона, чтобы получить консультацию</b></p>
-                <form action="#" class="form accordion__form">
-                  <div class="form__buttons"><label class="form__label accordion__label"><input type="text"
-                        name="Телефон" class="input-reset form__input" placeholder="+7 (999) 999 99 99" data-phone-mask
-                        required> <svg class="form__icon">
-                        <use xlink:href="<?php bloginfo('template_url'); ?>/assets/img/sprite.svg#phone"></use>
-                      </svg></label> <button class="btn-reset form__btn"><span>Обсудить вопрос
-                        с юристом</span></button></div>
-                </form>
-              </div>
-            </div>
-          </div>
+              <?php
+            }
+          }
+          wp_reset_postdata(); ?>
         </div>
       </div>
     </div>
@@ -619,8 +632,8 @@ get_header();
                     юристу</span></button></div>
             </form>
           </div>
-        </div><img src="<?php bloginfo('template_url'); ?>/assets/img/mocap.png" alt="" class="question__mocap"> <img src="<?php bloginfo('template_url'); ?>/assets/img/mocap-mobile.png" alt=""
-          class="question__mocap--mobile">
+        </div><img src="<?php bloginfo('template_url'); ?>/assets/img/mocap.png" alt="" class="question__mocap"> <img
+          src="<?php bloginfo('template_url'); ?>/assets/img/mocap-mobile.png" alt="" class="question__mocap--mobile">
       </div>
     </div>
   </section>
@@ -630,8 +643,8 @@ get_header();
         <h2 class="title connect__title">Звоните, мы поможем разрешить вашу ситуацию</h2><a href="tel:+74956484030"
           class="connect__phone">+7 495 648-40-30</a>
         <p class="connect__mail">Или напишите на почту: <a
-            href="mailto:lexadvice.ru@yandex.ru">lexadvice.ru@yandex.ru</a></p><img src="<?php bloginfo('template_url'); ?>/assets/img/connect.png" alt=""
-          class="connect__img">
+            href="mailto:lexadvice.ru@yandex.ru">lexadvice.ru@yandex.ru</a></p><img
+          src="<?php bloginfo('template_url'); ?>/assets/img/connect.png" alt="" class="connect__img">
       </div>
     </div>
   </section>
@@ -641,9 +654,11 @@ get_header();
         <div class="arrow-prev" onclick="galleryPrev()"></div>
         <div class="arrow-next" onclick="galleryNext()"></div>
         <ul class="gallery__list list-reset">
-          <li class="gallery__item"><img src="<?php bloginfo('template_url'); ?>/assets/img/gallery/first.png" alt="" class="gallery__img" loading="lazy">
+          <li class="gallery__item"><img src="<?php bloginfo('template_url'); ?>/assets/img/gallery/first.png" alt=""
+              class="gallery__img" loading="lazy">
           </li>
-          <li class="gallery__item"><img src="<?php bloginfo('template_url'); ?>/assets/img/gallery/second.png" alt="" class="gallery__img" loading="lazy">
+          <li class="gallery__item"><img src="<?php bloginfo('template_url'); ?>/assets/img/gallery/second.png" alt=""
+              class="gallery__img" loading="lazy">
           </li>
         </ul>
       </div>

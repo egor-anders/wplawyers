@@ -4,8 +4,8 @@
 <head>
   <meta charset="<?php bloginfo('charset'); ?>">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <link rel="icon" type="image/svg+xml" href="img/favicon/favicon.svg">
-  <link rel="icon" type="image/png" href="img/favicon/favicon.png">
+  <link rel="icon" type="image/svg+xml" href="<?php bloginfo('template_url'); ?>/assets/img/favicon/favicon.svg">
+  <link rel="icon" type="image/png" href="<?php bloginfo('template_url'); ?>/assets/img/favicon/favicon.png">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <meta name="theme-color" content="#111111">
   <meta name="description" content="Защита от субсидиарной ответственности
@@ -21,7 +21,7 @@
     <div class="background background--1">
       <header class="header">
         <div class="container"><button class="mobile-call" onclick="togglePopup('form2');"><img
-              src="img/phone.svg"></button>
+              src="<?php bloginfo('template_url'); ?>/assets/img/phone.svg"></button>
           <div class="call call--header">
             <div class="small-container call__wrapper call__wrapper--header">
               <div class="logo logo--header">
