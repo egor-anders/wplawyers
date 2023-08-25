@@ -23,7 +23,7 @@
           </button>
           <div class="call call--header">
             <div class="small-container call__wrapper call__wrapper--header">
-              <a href="#" class="logo logo--header">
+              <a href="/home" class="logo logo--header">
                 <img
                   src="<?php echo wp_get_attachment_image_url(carbon_get_theme_option('logo-header'), 'full'); ?>"
                   alt="" class="logo__img">

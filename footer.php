@@ -33,7 +33,7 @@
       </div>
     </div>
     <div class="call">
-      <div class="small-container call__wrapper"><a href="#" class="logo">
+      <div class="small-container call__wrapper"><a href="/home" class="logo">
           <img
             src="<?php echo wp_get_attachment_image_url(carbon_get_theme_option('logo-footer'), 'full'); ?>"
             alt="" class="logo__img">

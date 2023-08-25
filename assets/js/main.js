@@ -227,9 +227,9 @@
         );
         return t ? decodeURIComponent(t[1]) : void 0;
       })() || document.querySelector(".cookie").classList.add("show"),
-      document.querySelectorAll("[data-phone-mask]").forEach((e) => {
-        IMask(e, { mask: "+{7} (000) 000 00 00" });
-      }),
+      // document.querySelectorAll(".phone-mask").forEach((e) => {
+      //   IMask(e, { mask: "+{7} (000) 000 00 00" });
+      // }),
       (window.togglePopup = function (e) {
         let t = document.querySelector(`[data-popup-name="${e}"]`);
         t.classList.contains("show")
@@ -239,3 +239,13 @@
       });
   })();
 })();
+
+
+const elements = document.querySelectorAll('.phone-mask');
+
+elements.forEach((item)=>{
+  const maskOptions = {
+    mask: '+{7} (000) 000 00 00'
+  };
+  let mask = IMask(item, maskOptions);
+});

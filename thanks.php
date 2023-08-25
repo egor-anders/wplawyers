@@ -65,7 +65,7 @@ get_header();
         </ul>
       </div>
       <div class="next">
-        <img src="img/svg/next.svg" class="next__icon" />
+        <img src="<?php bloginfo('template_url'); ?>/assets/img/svg/next.svg" class="next__icon" />
         <p class="next__text m-reset">
           Чтобы посмотреть следующее<br />дело, проведите в сторону
         </p>
